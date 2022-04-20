@@ -24,7 +24,7 @@
 </br>
 
 <h5>Other concepts and technologies that I have a knowledge base</h5>
-<p>NodeJS, SOLID, DDD, Repositories Pattern's, Unit Test's, Docker, AWS S3 and MongoDB.</p>
+<p>NodeJS, TypeScript, SOLID, DDD, Repositories Pattern's, Unit Test's, Docker, AWS S3 and MongoDB.</p>
 
 </br>
 <div align="center">
