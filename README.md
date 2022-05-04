@@ -19,12 +19,12 @@
 <h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
 
 <p>Front-End => HTML, CSS, Javascript, VueJS</p>
-<p>Back-End (API's) => PHP, Laravel, MySQL</p>
+<p>Back-End (API's) => Node, PHP, Laravel, MySQL</p>
 
 </br>
 
 <h5>Other concepts and technologies that I have a knowledge base</h5>
-<p>NodeJS, TypeScript, SOLID, DDD, Repositories Pattern's, Unit Test's, Docker, AWS S3 and MongoDB.</p>
+<p>TypeScript, SOLID, DDD, Repositories Pattern's, Unit Test's, Docker, AWS S3 and MongoDB.</p>
 
 </br>
 <div align="center">
