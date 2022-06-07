@@ -32,4 +32,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisls&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  </br>
+  
+  <p>PS: This account is more idle because my current job requires a professional account, because of that all my day-to-day commits are on another account... </p>
  
