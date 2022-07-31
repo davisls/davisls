@@ -28,7 +28,7 @@
 
 </br>
 
- <p>PS: This account is more idle because my current job requires a professional account, because of that all my day-to-day commits are on another account... </p>
+ <p>PS: This account is more idle because my current job requires a professional account, so my day-to-day commits are on another account... </p>
  
 </br>
  
