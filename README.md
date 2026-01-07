@@ -18,8 +18,8 @@
 
 <h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
 
-<p>Front-End => HTML, CSS, Javascript, VueJS</p>
-<p>Back-End (API's) => Node, PHP, Java, C#, SQL Server</p>
+<p>Front-End => HTML, CSS, Javascript, VueJS, React</p>
+<p>Back-End (API's) => Node, TypeScript, Java, C#, SQL Server</p>
 
 </br>
 
